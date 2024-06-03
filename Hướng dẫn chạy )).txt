@@ -1,0 +1,3 @@
+B1: up database lên localhost
+B2: http://localhost/TUILAHIEPNE/login.php truy cập link trên để đăng nhập hoặc đăng ký
+B3: Login vào trang chủ 
